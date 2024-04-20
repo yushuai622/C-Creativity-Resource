@@ -1,0 +1,7 @@
+trainedModel-small-117M-k40-V4.pth filter=lfs diff=lfs merge=lfs -text
+Caveat-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+processedData_small-117M-k40.test.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_small-117M-k40.train.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_small-117M-k40.valid.pkl filter=lfs diff=lfs merge=lfs -text
+trainedModel-small-117M-k40-V2.pth filter=lfs diff=lfs merge=lfs -text
+trainedModel-small-117M-k40-V3.pth filter=lfs diff=lfs merge=lfs -text
