@@ -5,3 +5,11 @@ processedData_small-117M-k40.train.pkl filter=lfs diff=lfs merge=lfs -text
 processedData_small-117M-k40.valid.pkl filter=lfs diff=lfs merge=lfs -text
 trainedModel-small-117M-k40-V2.pth filter=lfs diff=lfs merge=lfs -text
 trainedModel-small-117M-k40-V3.pth filter=lfs diff=lfs merge=lfs -text
+processedData_large-762M-k40.test.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_large-762M-k40.valid.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_medium-345M-k40.train.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_medium-345M-k40.valid.pkl filter=lfs diff=lfs merge=lfs -text
+trainedModel-large-762M-k40-V4.pth filter=lfs diff=lfs merge=lfs -text
+trainedModel-medium-345M-k40-V6.pth filter=lfs diff=lfs merge=lfs -text
+processedData_large-762M-k40.train.pkl filter=lfs diff=lfs merge=lfs -text
+processedData_medium-345M-k40.test.pkl filter=lfs diff=lfs merge=lfs -text
